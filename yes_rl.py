@@ -1,3 +1,4 @@
+#Solving problem using RL(Q-learning basic alghoritm)
 import random
 
 import numpy as np

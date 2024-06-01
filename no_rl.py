@@ -1,3 +1,4 @@
+#Solving problem without RL (Brute-force approach)
 import gym
 from IPython.display import clear_output
 from time import sleep
